@@ -1,0 +1,2 @@
+# Dynamic_Taxononomy_Menu
+The goal of this WordPress plugin is to provide an easy way to display a menu of taxonomy terms related to the posts being displayed on a WordPress archive page. For example, let's say you have a taxonomy for organizing your posts based on location. Simply add a the shortcode [dynamic-taxonomy-menu taxonomy="location" orientation="horizontal"] to your template or text widget to get a horizontal menu of taxonomy terms in use by posts.
